@@ -1,0 +1,7 @@
+To build an interactive sustainability map for IIT Bombay, I would use React for the frontend, Leaflet.js for displaying the campus map, and Firebase for storing and managing information about sustainability initiatives. React would help create a responsive and user-friendly interface, while Leaflet.js would enable interactive map features such as markers, pop-ups, and filters. Firebase would serve as the backend database and could also be used for hosting the platform.
+
+The platform would consist of a campus map with markers representing sustainability-related facilities such as biogas plants, e-waste collection points, water refill stations, solar installations, and waste segregation units. Clicking on a marker would open a pop-up containing information, images, and the purpose of that initiative. Users could also filter locations by category to quickly find specific facilities.
+
+The development process would involve collecting location data, designing the user interface, integrating the map using Leaflet.js, connecting the data through Firebase, and implementing features such as search, filters, and information pop-ups. After testing usability and responsiveness across devices, the platform would be deployed using Firebase Hosting.
+
+To improve engagement, I would also include features such as sustainability quizzes, achievement badges for visiting locations, and a feedback system where students can suggest new sustainability initiatives to be added to the map.
