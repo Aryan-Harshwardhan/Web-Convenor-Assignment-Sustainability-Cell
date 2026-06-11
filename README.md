@@ -33,7 +33,7 @@ Platform architecture and workflow
 Development and deployment process
 Additional features to improve usability and student engagement
 
-The complete proposal is included as a PDF in the repository.
+The complete proposal is included as text in the repository.
 
 ## Learning Process and Use of AI
 
