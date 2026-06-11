@@ -35,17 +35,6 @@ Additional features to improve usability and student engagement
 
 The complete proposal is included as a PDF in the repository.
 
-## Repository Structure
-.
-├── Question 1
-│   ├── Hero Section Design Prototype (Figma)
-│   └── Hero Section HTML Implementation
-│
-├── Question 2
-│   └── Sustainability Map Proposal (PDF)
-│
-└── README.md
-
 ## Learning Process and Use of AI
 
 As I did not have prior experience in web development, UI/UX design, or technologies such as HTML, CSS, JavaScript, React, Firebase, and related tools, I used this assignment as an opportunity to learn and explore these concepts.
