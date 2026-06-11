@@ -13,13 +13,13 @@ The objective of this assignment was to explore web design, user experience, and
 For this task, I redesigned the Hero Section of the Sustainability Cell website while maintaining the overall sustainability-focused theme of the existing website.
 
 ### Deliverables
-Figma Design Prototype
+Figma Design Prototype,
 HTML/CSS/JavaScript Implementation
-Features Implemented
-Sustainability-themed visual design
-Animated background elements
-Interactive hover effects
-Animated logo and visual components
+### Features Implemented
+Sustainability-themed visual design,
+Animated background elements,
+Interactive hover effects,
+Animated logo and visual components,
 Improved visual hierarchy and user engagement
 
 ## Question 2 – Interactive Sustainability Map Proposal
